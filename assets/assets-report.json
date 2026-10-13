@@ -1,0 +1,50 @@
+[
+  {
+    "file": "logo.jpg",
+    "size": 16931,
+    "dimensions": [
+      720,
+      1280
+    ],
+    "sha256": "56b0773e488d"
+  },
+  {
+    "file": "caramelo-dog.jpg",
+    "size": 36029,
+    "dimensions": [
+      591,
+      1280
+    ],
+    "sha256": "d02a4aaf8915"
+  },
+  {
+    "file": "van-side.jpg",
+    "size": 167237,
+    "dimensions": [
+      1280,
+      638
+    ],
+    "sha256": "8ed73f49f879"
+  },
+  {
+    "file": "van-hero.jpg",
+    "size": 173103,
+    "dimensions": [
+      1280,
+      681
+    ],
+    "sha256": "a6412043304d"
+  },
+  {
+    "file": "doc_120f430ff38c_IMG_9482.HEIC",
+    "converted": false,
+    "error": "UnidentifiedImageError",
+    "preserved": "/root/.hermes/workspace/eduardo/sites/caramelo-da-va-site/assets/doc_120f430ff38c_IMG_9482.HEIC"
+  },
+  {
+    "file": "doc_daa750ab2cbf_IMG_9487.HEIC",
+    "converted": false,
+    "error": "UnidentifiedImageError",
+    "preserved": "/root/.hermes/workspace/eduardo/sites/caramelo-da-va-site/assets/doc_daa750ab2cbf_IMG_9487.HEIC"
+  }
+]
